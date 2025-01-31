@@ -44,16 +44,16 @@
             , <&key_physical_attrs 100 100 1200  237       0     0     0>
             , <&key_physical_attrs 100 100 1300  237       0     0     0>
             // New row
-            , <&key_physical_attrs 100 100  200  320       0     0     0>
-            , <&key_physical_attrs 100 100  300  320       0     0     0>
-            , <&key_physical_attrs 100 100  400  320       0     0     0>
-            , <&key_physical_attrs 100 100  500  320       0     0     0>
-            , <&key_physical_attrs 100 100  800  320       0     0     0>
-            , <&key_physical_attrs 100 100  900  320       0     0     0>
-            , <&key_physical_attrs 100 100 1000  320       0     0     0>
-            , <&key_physical_attrs 100 100 1100  320       0     0     0>
-            , <&key_physical_attrs 100 100 1200  320       0     0     0>
-            , <&key_physical_attrs 100 100 1300  320       0     0     0>
+            , <&key_physical_attrs 100 100  200  312       0     0     0>
+            , <&key_physical_attrs 100 100  300  312       0     0     0>
+            , <&key_physical_attrs 100 100  400  312       0     0     0>
+            , <&key_physical_attrs 100 100  500  312       0     0     0>
+            , <&key_physical_attrs 100 100  800  312       0     0     0>
+            , <&key_physical_attrs 100 100  900  312       0     0     0>
+            , <&key_physical_attrs 100 100 1000  312       0     0     0>
+            , <&key_physical_attrs 100 100 1100  312       0     0     0>
+            , <&key_physical_attrs 100 100 1200  312       0     0     0>
+            , <&key_physical_attrs 100 100 1300  312       0     0     0>
 
             /*
             , <&key_physical_attrs 100 100  350  312       0     0     0>
